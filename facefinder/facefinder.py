@@ -5,7 +5,7 @@ by nkmst
 
 import cv2
 
-IMAGE_OFFSET = 0.1
+IMAGE_OFFSET = 0.
 
 def detect(path):
     img = cv2.imread(path)
